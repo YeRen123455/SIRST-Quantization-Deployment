@@ -5,6 +5,10 @@ This is the deployable APK file of the method in our paper "Mixed-Precision Netw
 ![outline](Pipeline.png)
 
 #### 1. Download SPMix-Q(ResUnet).apk.
-* [The APK download dir]([https://github.com/YimianDai/sirst](https://pan.baidu.com/s/1qh3UzyUZFDmkoV7CDl2U3Q?pwd=nudt)) (Extraction Code: nudt)
+* [The APK download dir](https://pan.baidu.com/s/1qh3UzyUZFDmkoV7CDl2U3Q?pwd=nudt) (Extraction Code: nudt)
 #### 2. Install the APK with USB line.
 #### 3. Follwing the pipeline and enjoy it.
+
+
+
+
